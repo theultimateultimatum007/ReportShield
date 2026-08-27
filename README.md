@@ -7,7 +7,7 @@ A Python Discord bot to protect users from being reported and limited. Also cont
 When an user types a detected slur. their message gets delted and reposted as a webhook.
 
 ## Commands
-/antispyware - Bans Discord, Community Updates and Clyde from your server.
+!antispyware - Bans Discord, Community Updates and Clyde from your server.
 
 ## DISCLAIMER
 This bot is for educational purposes only! Deploy at your own risk!
