@@ -1,2 +1,2 @@
 - Command !encryptmode on/off to repost ALL messages.
-- Command !archive create/load to archive entire servers servers into a .json file. On archive creation, include options on what to archive: messages, emojis etc.
+- Command !archive create/load to archive entire servers into a .json file. On archive creation, include options on what to archive: messages, emojis etc.
